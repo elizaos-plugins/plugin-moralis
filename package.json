@@ -1,5 +1,5 @@
 {
-    "name": "@elizaos/plugin-moralis",
+    "name": "@elizaos-plugins/plugin-moralis",
     "version": "0.1.9",
     "type": "module",
     "main": "dist/index.js",
@@ -19,7 +19,6 @@
         "dist"
     ],
     "dependencies": {
-        "@elizaos/core": "workspace:*",
         "axios": "^1.7.9",
         "tsup": "8.3.5"
     },
